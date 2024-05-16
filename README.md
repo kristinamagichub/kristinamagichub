@@ -10,7 +10,7 @@
 <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="typescript" width="40" height="40" /></a> &nbsp;
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML" alt="HTML" width="40" height="40"/></a> &nbsp;
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS" alt="CSS" width="40" height="40"/></a> &nbsp;
-<a href="https://nextjs.org/"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" title="Nest.js" alt="nextjs" width="40" height="40" /></a> &nbsp;
+<a href="https://nextjs.org/"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" title="Next.js" alt="nextjs" width="40" height="40" /></a> &nbsp;
 <a href="https://vitejs.dev"> <img src="https://vitejs.dev/logo.svg" title="Vite.js" alt="vitejs" width="40" height="40" /></a> &nbsp;
 </p>
 
