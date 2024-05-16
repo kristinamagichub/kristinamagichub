@@ -1,10 +1,13 @@
-<h2 align="center">Hi 👋, I'm Kristina!</h2>
+<h1 align="center">Hi 👋, I'm Kristina!</h1>
 <h3 align="center">Frontend developer🏄 </h3>
 
-<h3  align="left">Frontend languages and Tools:</h3>
+<div id="stack" align="left" markdown="1">
+  
+  ## Frontend languages and Tools: ##
+
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" /> </a> &nbsp;
-<a href="https://reactjs.org/"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30" /> </a> &nbsp;  
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" /> </a> 
+<a href="https://reactjs.org/"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30" /> </a>   
 <a href="https://www.typescriptlang.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30" /> </a> &nbsp;
 <a href="https://nextjs.org/"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="30" height="30" /> </a> &nbsp;
 <a href="https://vitejs.dev"> <img src="https://vitejs.dev/logo.svg" alt="vitejs" width="30" height="30" /> </a> &nbsp;
@@ -35,6 +38,11 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 
+- 👋 Hi, I’m 
+- 👀 I’m interested in ...
+
+- 💞️ I’m looking to collaborate on ...
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -44,8 +52,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- 👋 Hi, I’m @codesorceress
-- 👀 I’m interested in ...
-
-- 💞️ I’m looking to collaborate on ...
 -->
