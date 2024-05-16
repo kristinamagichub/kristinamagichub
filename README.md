@@ -3,12 +3,13 @@
 
 <div id="stack" align="left" markdown="1">
   
-  ## Frontend languages and Tools: ##
-
+<h3  align="left">Frontend languages and Tools:</h3>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" /> </a> 
 <a href="https://reactjs.org/"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30" /> </a>   
 <a href="https://www.typescriptlang.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30" /> </a> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML" alt="HTML" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS" alt="CSS" width="40" height="40"/>
 <a href="https://nextjs.org/"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="30" height="30" /> </a> &nbsp;
 <a href="https://vitejs.dev"> <img src="https://vitejs.dev/logo.svg" alt="vitejs" width="30" height="30" /> </a> &nbsp;
 </p>
