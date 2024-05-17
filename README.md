@@ -22,12 +22,17 @@
 <a href="https://www.nginx.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="Nginx" alt="nginx" width="40" height="40" /></a> &nbsp;
 </p>
 
-<h3  align="left">Databases and APIs:</h3>
+<h3  align="left">Databases:</h3>
 
 <p align="left">
-<a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="GIT" alt="git" width="40" height="40" /></a> &nbsp;
 <a href="https://www.mongodb.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="mongodb" width="40" height="40" /></a> &nbsp;
 </p>
+
+<h3  align="left">Other:</h3>
+<p align="left">
+<a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="GIT" alt="git" width="40" height="40" /></a> &nbsp;
+</p>
+
 
 <h3  align="left">Connect with me:</h3>
 
