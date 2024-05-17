@@ -30,7 +30,7 @@
 
 <h3  align="left">Other:</h3>
 <p align="left">
-<a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="GIT" alt="git" width="45" height="45" /></a> &nbsp;
+<a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="GIT" alt="git" width="43" height="43" /></a> &nbsp;
 </p>
 
 
