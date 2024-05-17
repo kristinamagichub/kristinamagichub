@@ -25,7 +25,7 @@
 <h3  align="left">Databases:</h3>
 
 <p align="left">
-<a href="https://www.mongodb.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="mongodb" width="55" height="55" /></a> &nbsp;
+<a href="https://www.mongodb.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="mongodb" width="58" height="58" /></a> &nbsp;
 </p>
 
 <h3  align="left">Other:</h3>
