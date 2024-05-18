@@ -2,6 +2,11 @@
 <h3 align="center">Frontend developer</h3>
 
 I'm looking for opportunities that will help me grow as a professional and get some great experience 
+
+<div align="center">
+  <img src="https://media.giphy.com/media/5WILqPq29TyIkVCSej/giphy.gif" width="550" height="250"/>
+</div>
+
 <div id="stack" align="left" markdown="1">
   
 <h4  align="left">Frontend languages and Tools:</h4>
@@ -32,7 +37,7 @@ I'm looking for opportunities that will help me grow as a professional and get s
 <h4  align="left">Other:</h4>
 <p align="left">
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="GIT" alt="git" width="43" height="43" /></a> &nbsp;
-<a href="#"> <img src="https://github.com/MalakhN/MalakhN/blob/main/Figma-Icon.svg" title="Figma" alt="git" width="30" height="30" /></a> &nbsp;
+<a href="#"> <img src="https://github.com/MalakhN/MalakhN/blob/main/Figma-Icon.svg" title="Figma" alt="git" width="40" height="40" /></a> &nbsp;
 </p>
 
 
