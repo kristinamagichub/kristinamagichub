@@ -45,7 +45,7 @@ I'm looking for opportunities that will help me grow as a professional and get s
 <h3  align="left">Connect with me:</h3>
 <ul>
   <li>kristinafrdev@gmail.com</li>
-  <a href="https://t.me/KristinaTheDev"> <img src="./assets/telegram-messenger-new4234.jpg" alt="Telegram" width="40" height="40" title='Telegram'/> </a>
+  <li>https://t.me/KristinaTheDev</li>
 </ul>
 
 
