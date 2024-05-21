@@ -12,7 +12,7 @@ I'm looking for opportunities that will help me grow as a professional and get s
   
 <h4  align="left">Frontend languages and Tools:</h4>
 <p align="left">
-<a href="https://reactjs.org/"> <img src="https://reactnative.dev/img/header_logo.svg" title="React" alt="reactnative" width="55" height="55" /></a> &nbsp;
+<a href="https://reactjs.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="reactnative" width="55" height="55" /></a> &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="javascript" width="48" height="48" /></a> &nbsp;
 <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="typescript" width="48" height="48" /></a> &nbsp;
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML" alt="HTML" width=45" height="45"/></a> &nbsp;
