@@ -37,7 +37,7 @@ I'm looking for opportunities that will help me grow as a professional and get s
 
 <h4  align="left">Other:</h4>
 <p align="left">
-<a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="GIT" alt="git" width="43" height="43" /></a> &nbsp;
+<a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="GIT" alt="git" width="43" height="43" /></a> &nbsp;
 <a href="#"> <img src="https://github.com/MalakhN/MalakhN/blob/main/Figma-Icon.svg" title="Figma" alt="git" width="40" height="40" /></a> &nbsp;
 </p>
 
