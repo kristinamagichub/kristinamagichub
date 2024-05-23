@@ -2,7 +2,7 @@
 
 <p align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=0&width=465&lines=Hey+there;I'm+Kristina;frontend+developer;always+learning+new+things" alt="Typing SVG"/></a></p>
 
-I'm looking for opportunities that will help me grow as a professional and get great experience 
+I'm looking for opportunities that will help me grow as a professional and get some great experience 
 
 <div align="center">
   <img src="https://media.giphy.com/media/5WILqPq29TyIkVCSej/giphy.gif" width="550" height="250"/>
