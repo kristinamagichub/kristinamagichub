@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kristina!</h1>
+<h1 align="center">Hi👋, I'm Kristina!</h1>
 
 <p align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=0&width=465&lines=Hey+there;I'm+Kristina;frontend+developer;always+learning+new+things" alt="Typing SVG"/></a></p>
 
