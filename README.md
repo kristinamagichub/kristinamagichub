@@ -5,7 +5,7 @@
 I'm looking for opportunities that will help me grow as a professional and get some great experience 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/5WILqPq29TyIkVCSej/giphy.gif" width="550" height="250"/>
+  <img src="https://media.giphy.com/media/5WILqPq29TyIkVCSej/giphy.gif" width="500" height="200"/>
 </div>
 
 <div id="stack" align="left" markdown="1">
