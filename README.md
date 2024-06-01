@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Kristina</h1>
 
 <p align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=0&width=465&lines=Hi+there;I'm+Kristina;Frontend+developer;Always+learning+new+things" alt="Typing SVG"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=0&width=465&lines=Frontend+developer;Always+learning+new+things" alt="Typing SVG"/></a>
 </p>
 
 I'm looking for opportunities that will help me grow as a professional and get some great experience 
@@ -9,7 +9,7 @@ I'm looking for opportunities that will help me grow as a professional and get s
 <div align="left">
   <img src="https://media.giphy.com/media/5WILqPq29TyIkVCSej/giphy.gif" width="600" height="300"/>
 </div>
-<div id="stack" align="left" markdown="2">
+<div id="stack" align="left" markdown="1">
   
 <h3  align="left">Frontend languages and Tools:</h3>
 <p align="left">
