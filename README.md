@@ -47,7 +47,7 @@ I'm looking for opportunities that will help me grow as a professional and get s
 
 
 <div align="left">
-  <img src="https://media.giphy.com/media/5WILqPq29TyIkVCSej/giphy.gif" width="400" height="100"/>
+  <img src="https://media.giphy.com/media/5WILqPq29TyIkVCSej/giphy.gif" width="400" height="200"/>
 </div>
 <div id="stack" align="left" markdown="1">
 
