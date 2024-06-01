@@ -13,7 +13,7 @@ I'm looking for opportunities that will help me grow as a professional and get s
 
 <div id="stack" align="left" markdown="1">
   
-<h4  align="left">Frontend languages and Tools:</h4>
+<h3  align="left">Frontend languages and Tools:</h3>
 <p align="left">
 <a href="https://reactjs.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="reactnative" width="55" height="55" /></a> &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="javascript" width="48" height="48" /></a> &nbsp;
@@ -25,7 +25,7 @@ I'm looking for opportunities that will help me grow as a professional and get s
 <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
 </p>
 
-<h4 align="left">Backend languages and Tools:</h4>
+<h3 align="left">Backend languages and Tools:</h3>
 
 <p align="left">
 <a href="https://nodejs.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" title="Node.js" alt="nodejs" width="55" height="55" /></a> &nbsp;
@@ -33,13 +33,13 @@ I'm looking for opportunities that will help me grow as a professional and get s
 <a href="https://www.nginx.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="Nginx" alt="nginx" width="55" height="55" /></a> &nbsp;
 </p>
 
-<h4  align="left">Databases:</h4>
+<h3  align="left">Databases:</h3>
 
 <p align="left">
 <a href="https://www.mongodb.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="mongodb" width="58" height="58" /></a> &nbsp;
 </p>
 
-<h4  align="left">Other:</h4>
+<h3  align="left">Other:</h3>
 <p align="left">
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="GIT" alt="git" width="43" height="43" /></a> &nbsp;
 <a href="#"> <img src="https://github.com/MalakhN/MalakhN/blob/main/Figma-Icon.svg" title="Figma" alt="git" width="40" height="40" /></a> &nbsp;
