@@ -10,7 +10,6 @@ I'm looking for opportunities that will help me grow as a professional and get s
 <div align="center">
   <img src="https://media.giphy.com/media/5WILqPq29TyIkVCSej/giphy.gif" width="600" height="300"/>
 </div>
-
 <div id="stack" align="left" markdown="1">
   
 <h3  align="left">Frontend languages and Tools:</h3>
