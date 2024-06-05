@@ -23,7 +23,7 @@ I'm looking for opportunities that will help me grow as a professional and get s
 <a href="https://nodejs.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" title="Node.js" alt="nodejs" width="55" height="55" /></a> &nbsp;
 <a href="https://expressjs.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="Express.js" alt="express" width="60" height="60" /></a> &nbsp;
 <a href="https://www.nginx.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="Nginx" alt="nginx" width="55" height="55" /></a> &nbsp;
-  <a href="https://postman.com" target="blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  <a href="https://postman.com" target="blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="postman" width="40" height="40"/> </a>
 </p>
 
 <h3  align="left">Databases:</h3>
