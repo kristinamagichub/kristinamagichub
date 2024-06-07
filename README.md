@@ -5,20 +5,19 @@
 </p>
 
 I'm looking for opportunities that will help me grow as a professional and get some great experience 
-  
+ 
 <h3  align="left">Frontend languages and Tools:</h3>
 <p align="left">
-<a href="https://reactjs.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="reactnative" width="75" height="75" /></a> &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="javascript" width="68" height="68" /></a> &nbsp;
-<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="typescript" width="68" height="68" /></a> &nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width=70" height="70"/></a> &nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="70" height="70"/></a> &nbsp;
-<a href="https://nextjs.org/"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" title="Next.js" alt="nextjs" width="80" height="80" /></a> &nbsp;
-<a href="https://vitejs.dev"> <img src="https://vitejs.dev/logo.svg" title="Vite.js" alt="vitejs" width="65" height="65" /></a> &nbsp;
+<a href="https://reactjs.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="reactnative" width="85" height="85" /></a> &nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="javascript" width="78" height="78" /></a> &nbsp;
+<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="typescript" width="78" height="78" /></a> &nbsp;
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width=80" height="80"/></a> &nbsp;
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="80" height="80"/></a> &nbsp;
+<a href="https://nextjs.org/"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" title="Next.js" alt="nextjs" width="90" height="90" /></a> &nbsp;
+<a href="https://vitejs.dev"> <img src="https://vitejs.dev/logo.svg" title="Vite.js" alt="vitejs" width="75" height="75" /></a> &nbsp;
 </p>
 
 <h3 align="left">Backend languages and Tools:</h3>
-
 <p align="left">
 <a href="https://nodejs.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" title="Node.js" alt="nodejs" width="55" height="55" /></a> &nbsp;
 <a href="https://expressjs.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="Express.js" alt="express" width="60" height="60" /></a> &nbsp;
@@ -26,7 +25,6 @@ I'm looking for opportunities that will help me grow as a professional and get s
 </p>
 
 <h3  align="left">Databases:</h3>
-
 <p align="left">
 <a href="https://www.mongodb.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="mongodb" width="58" height="58" /></a> &nbsp;
 </p>
