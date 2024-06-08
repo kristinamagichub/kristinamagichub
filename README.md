@@ -6,7 +6,7 @@
 
 I'm looking for opportunities that will help me grow as a professional and get some great experience 
  
-<h3  align="left">Frontend languages and Tools:</h3>
+<h2  align="left">Frontend languages and Tools</h2>
 <p align="left">
 <a href="https://reactjs.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="reactnative" width="85" height="85" /></a> &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="javascript" width="78" height="78" /></a> &nbsp;
