@@ -5,6 +5,7 @@
 </p>
 
 I'm looking for opportunities that will help me grow as a professional and get some great experience 
+
  
 <h2  align="left">Frontend languages and Tools</h2>
 <p align="left">
@@ -17,6 +18,7 @@ I'm looking for opportunities that will help me grow as a professional and get s
 <a href="https://vitejs.dev"> <img src="https://vitejs.dev/logo.svg" title="Vite.js" alt="vitejs" width="75" height="75" /></a> &nbsp;
 </p>
 
+
 <h2 align="left">Backend languages and Tools</h2>
 <p align="left">
 <a href="https://nodejs.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" title="Node.js" alt="nodejs" width="55" height="55" /></a> &nbsp;
@@ -24,10 +26,12 @@ I'm looking for opportunities that will help me grow as a professional and get s
 <a href="https://www.nginx.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="Nginx" alt="nginx" width="55" height="55" /></a> &nbsp;
 </p>
 
+
 <h2  align="left">Databases</h2>
 <p align="left">
 <a href="https://www.mongodb.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="mongodb" width="58" height="58" /></a> &nbsp;
 </p>
+
 
 <h2  align="left">Other</h2>
 <p align="left">
@@ -35,6 +39,7 @@ I'm looking for opportunities that will help me grow as a professional and get s
 <a href="#"> <img src="https://github.com/MalakhN/MalakhN/blob/main/Figma-Icon.svg" title="Figma" alt="git" width="40" height="40" /></a> &nbsp;
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="postman" width="40" height="40"/> </a>
 </p>
+
 
 
 <h3  align="left">Connect with me</h3>
