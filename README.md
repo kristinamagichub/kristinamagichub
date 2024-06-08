@@ -17,19 +17,19 @@ I'm looking for opportunities that will help me grow as a professional and get s
 <a href="https://vitejs.dev"> <img src="https://vitejs.dev/logo.svg" title="Vite.js" alt="vitejs" width="75" height="75" /></a> &nbsp;
 </p>
 
-<h3 align="left">Backend languages and Tools:</h3>
+<h2 align="left">Backend languages and Tools</h2>
 <p align="left">
 <a href="https://nodejs.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" title="Node.js" alt="nodejs" width="55" height="55" /></a> &nbsp;
 <a href="https://expressjs.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="Express.js" alt="express" width="60" height="60" /></a> &nbsp;
 <a href="https://www.nginx.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="Nginx" alt="nginx" width="55" height="55" /></a> &nbsp;
 </p>
 
-<h3  align="left">Databases:</h3>
+<h2  align="left">Databases</h2>
 <p align="left">
 <a href="https://www.mongodb.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="mongodb" width="58" height="58" /></a> &nbsp;
 </p>
 
-<h3  align="left">Other:</h3>
+<h2  align="left">Other</h2>
 <p align="left">
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="GIT" alt="git" width="43" height="43" /></a> &nbsp;
 <a href="#"> <img src="https://github.com/MalakhN/MalakhN/blob/main/Figma-Icon.svg" title="Figma" alt="git" width="40" height="40" /></a> &nbsp;
@@ -37,7 +37,7 @@ I'm looking for opportunities that will help me grow as a professional and get s
 </p>
 
 
-<h3  align="left">Connect with me:</h3>
+<h3  align="left">Connect with me</h3>
 <ul>
   <li>kristinafrdev@gmail.com</li>
   <li>https://t.me/KristinaTheDev</li>
