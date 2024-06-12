@@ -42,7 +42,7 @@ I'm looking for opportunities that will help me grow as a professional and get s
 
 
 
-<h3  align="left">Connect with me</h3>
+<h3  align="left">Connect with me:</h3>
 <ul>
   <li>kristinafrdev@gmail.com</li>
   <li>https://t.me/KristinaTheDev</li>
