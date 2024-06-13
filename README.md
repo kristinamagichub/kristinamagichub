@@ -9,13 +9,13 @@ I'm looking for opportunities that will help me grow as a professional and get s
  
 <h2  align="left">Frontend languages and Tools:</h2>
 <p align="left">
-<a href="https://reactjs.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="reactnative" width="85" height="85" /></a> &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="javascript" width="80" height="80" /></a> &nbsp;
-<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="typescript" width="80" height="80" /></a> &nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width=80" height="80"/></a> &nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="80" height="80"/></a> &nbsp;
-<a href="https://nextjs.org/"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" title="Next.js" alt="nextjs" width="90" height="90" /></a> &nbsp;
-<a href="https://vitejs.dev"> <img src="https://vitejs.dev/logo.svg" title="Vite.js" alt="vitejs" width="75" height="75" /></a> &nbsp;
+<a href="https://reactjs.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="reactnative" width="105" height="105" /></a> &nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="javascript" width="100" height="100" /></a> &nbsp;
+<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="typescript" width=100" height="100" /></a> &nbsp;
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width=100" height="100"/></a> &nbsp;
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="100" height="100"/></a> &nbsp;
+<a href="https://nextjs.org/"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" title="Next.js" alt="nextjs" width="110" height="110" /></a> &nbsp;
+<a href="https://vitejs.dev"> <img src="https://vitejs.dev/logo.svg" title="Vite.js" alt="vitejs" width="95" height="95" /></a> &nbsp;
 </p>
 
 
