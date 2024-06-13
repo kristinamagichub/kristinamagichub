@@ -21,9 +21,9 @@ I'm looking for opportunities that will help me grow as a professional and get s
 
 <h2 align="left">Backend languages and Tools:</h2>
 <p align="left">
-<a href="https://nodejs.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" title="Node.js" alt="nodejs" width="75" height="75" /></a> &nbsp;
-<a href="https://expressjs.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="Express.js" alt="express" width="80" height="80" /></a> &nbsp;
-<a href="https://www.nginx.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="Nginx" alt="nginx" width="75" height="75" /></a> &nbsp;
+<a href="https://nodejs.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" title="Node.js" alt="nodejs" width="100" height="100" /></a> &nbsp;
+<a href="https://expressjs.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="Express.js" alt="express" width="100" height="100" /></a> &nbsp;
+<a href="https://www.nginx.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="Nginx" alt="nginx" width="100" height="100" /></a> &nbsp;
 </p>
 
 
