@@ -1,4 +1,4 @@
-<h1 align="left">Hi👋, I'm Kristina</h1>
+<h1 align="left">Hi👋 I'm Kristina</h1>
 
 <p align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=0&width=465&lines=Frontend+developer;Always+learning+new+things" alt="Typing SVG"/></a>
@@ -6,7 +6,6 @@
 
 I'm looking for opportunities that will help me grow as a professional and get some great experience 
 
- 
 <h2  align="left">Frontend languages and Tools:</h2>
 <p align="left">
 <a href="https://reactjs.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="reactnative" width="105" height="105" /></a> &nbsp;
@@ -18,7 +17,6 @@ I'm looking for opportunities that will help me grow as a professional and get s
 <a href="https://vitejs.dev"> <img src="https://vitejs.dev/logo.svg" title="Vite.js" alt="vitejs" width="95" height="95" /></a> &nbsp;
 </p>
 
-
 <h2 align="left">Backend languages and Tools:</h2>
 <p align="left">
 <a href="https://nodejs.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" title="Node.js" alt="nodejs" width="100" height="100" /></a> &nbsp;
@@ -26,12 +24,10 @@ I'm looking for opportunities that will help me grow as a professional and get s
 <a href="https://www.nginx.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="Nginx" alt="nginx" width="100" height="100" /></a> &nbsp;
 </p>
 
-
 <h2 align="left">Databases:</h2>
 <p align="left">
 <a href="https://www.mongodb.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="mongodb" width="90" height="90" /></a> &nbsp;
 </p>
-
 
 <h2 align="left">Other:</h2>
 <p align="left">
@@ -40,14 +36,11 @@ I'm looking for opportunities that will help me grow as a professional and get s
 <a href="https://postman.com"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="postman" width="60" height="60"/> </a>
 </p>
 
-
-
 <h3  align="left">Connect with me:</h3>
 <ul>
   <li>kristinafrdev@gmail.com</li>
   <li>https://t.me/KristinaTheDev</li>
 </ul>
-
 
 <div align="left">
   <img src="https://media.giphy.com/media/5WILqPq29TyIkVCSej/giphy.gif" width="600" height="300"/>
