@@ -14,7 +14,7 @@ I'm looking for opportunities that will help me grow as a professional and get s
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width=100" height="100"/></a> &nbsp;
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="100" height="100"/></a> &nbsp;
 <a href="https://nextjs.org/"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" title="Next.js" alt="nextjs" width="115" height="115" /></a> &nbsp;
-<a href="https://vitejs.dev"> <img src="https://vitejs.dev/logo.svg" title="Vite.js" alt="vitejs" width="105" height="105" /></a> &nbsp;
+<a href="https://vitejs.dev"> <img src="https://vitejs.dev/logo.svg" title="Vite.js" alt="vitejs" width="100" height="100" /></a> &nbsp;
 </p>
 
 <h2 align="left">Backend languages and Tools:</h2>
