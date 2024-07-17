@@ -1,5 +1,6 @@
 <h1 align="left">Hi👋 I'm Kristina</h1>
 
+
 <p align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=0&width=465&lines=Frontend+developer;Always+learning+new+things" alt="Typing SVG"/></a>
 </p>
